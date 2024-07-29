@@ -9,6 +9,5 @@ of
 customized
 visualization (bar chart, pie chart, donut chart,
 clustered bar chart, scatter chart, line chart,
-Rishabh Mishra
 area chart, map, slicers, etc)
 Subscribedi
